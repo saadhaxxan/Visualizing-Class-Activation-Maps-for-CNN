@@ -5,9 +5,9 @@
   </div>
 </a> 
 
-## Just Forget about local installation and run it now
+## Run it now
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16CpcQR8YaGa4MtryfDsVEQqAFJFKcxKa]
+![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://colab.research.google.com/drive/16CpcQR8YaGa4MtryfDsVEQqAFJFKcxKa]
 
 ## Running Locally
 1.Installing requirements and dependencies
