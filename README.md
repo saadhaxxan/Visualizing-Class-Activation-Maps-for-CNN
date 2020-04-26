@@ -7,7 +7,9 @@
 
 ## Run it now
 
-![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://colab.research.google.com/drive/16CpcQR8YaGa4MtryfDsVEQqAFJFKcxKa]
+<a href="https://colab.research.google.com/drive/16CpcQR8YaGa4MtryfDsVEQqAFJFKcxKa" target="_parent">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg"/>
+</a>
 
 ## Running Locally
 1.Installing requirements and dependencies
